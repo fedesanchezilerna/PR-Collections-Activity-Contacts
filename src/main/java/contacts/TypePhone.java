@@ -3,7 +3,7 @@ package contacts;
 public enum TypePhone {
     H("Home"),
     M("Mobile"),
-    THE("Office"),
+    O("Office"),
     F("Fax Office");
 
     private final String text;
